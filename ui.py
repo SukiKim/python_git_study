@@ -1,8 +1,8 @@
-<<<<<<< HEAD
+# <<<<<<< HEAD
 # 6.3.3 ui.py
-=======
+# =======
 # 6.3.1 ui.py
->>>>>>> ca089ef8608fbd7999a2ce8e65fb8caf1b54fa9e
+# >>>>>>> ca089ef8608fbd7999a2ce8e65fb8caf1b54fa9e
 from PyQt5.QtWidgets import (QApplication,QWidget,QPushButton,QVBoxLayout,
                              QMessageBox, QPlainTextEdit, QHBoxLayout,
                              QLineEdit, QComboBox)
@@ -128,8 +128,8 @@ class View(QWidget):
 #                              QLineEdit, QComboBox)
 # from PyQt5.QtGui import QIcon
 # from PyQt5 import QtCore
-<<<<<<< HEAD
-=======
+# <<<<<<< HEAD
+# =======
 
 
 # class View(QWidget):
@@ -245,7 +245,7 @@ class View(QWidget):
 
 # # ch 5.2.1 ui.py
 # #from PyQt5.QtWidgets import (QApplication, QWidget, QPushButton, QVBoxLayout, QMessageBox, QPlainTextEdit, QHBoxLayout)
->>>>>>> ca089ef8608fbd7999a2ce8e65fb8caf1b54fa9e
+# >>>>>>> ca089ef8608fbd7999a2ce8e65fb8caf1b54fa9e
 
 
 # class View(QWidget):
